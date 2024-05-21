@@ -1,0 +1,8 @@
+setup.py
+src/voxel_upsample.cpp
+src/voxel_upsample_api.cpp
+src/voxel_upsample_gpu.cu
+voxel_upsample.egg-info/PKG-INFO
+voxel_upsample.egg-info/SOURCES.txt
+voxel_upsample.egg-info/dependency_links.txt
+voxel_upsample.egg-info/top_level.txt
