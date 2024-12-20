@@ -36,10 +36,10 @@ We thank the authors of [`OpenPCDet`](https://github.com/open-mmlab/OpenPCDet) f
 Please cite our paper if you find our work useful for your research:
 
 ```
-@article{liu2024ffam,
+@inproceedings{liu2024ffam,
   title={FFAM: Feature Factorization Activation Map for Explanation of 3D Detectors}, 
   author={Liu, Shuai and Li, Boyang and Fang, Zhiyu and Cui, Mingyue and Huang, Kai},
-  journal={arXiv preprint arXiv:2405.12601},
+  booktitle={NeurIPS},
   year={2024}
 }
 ```
